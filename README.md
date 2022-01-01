@@ -1,2 +1,2 @@
 # ww_simulation
-Simple simulation game 
+This is a simple simulation game which takes input as text file and simulate the written scenario step by step.
